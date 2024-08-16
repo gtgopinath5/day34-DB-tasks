@@ -1,0 +1,30 @@
+[
+  {
+    "studentId": "S1001",
+    "name": "Arun Kumar",
+    "email": "arun.kumar@gmail.com",
+    "courseId": "A2001",
+    "batchId": "B3001"
+  },
+  {
+    "studentId": "S1002",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@gmail.com",
+    "courseId": "A2002",
+    "batchId": "B3002"
+  },
+  {
+    "studentId": "S1003",
+    "name": "Ravi Verma",
+    "email": "ravi.verma@gmail.com",
+    "courseId": "A2003",
+    "batchId": "B3003"
+  },
+  {
+    "studentId": "S1004",
+    "name": "Meera",
+    "email": "meera.nair@gmail.com",
+    "courseId": "A2004",
+    "batchId": "B3004"
+  }
+]

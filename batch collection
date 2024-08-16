@@ -1,0 +1,26 @@
+[
+  {
+    "batchId": "B3001",
+    "name": "Batch 1",
+    "startDate": "2024-01-15",
+    "courseId": "C2001"
+  },
+  {
+    "batchId": "B3002",
+    "name": "Batch 2",
+    "startDate": "2024-02-20",
+    "courseId": "C2002"
+  },
+  {
+    "batchId": "B3003",
+    "name": "Batch 3",
+    "startDate": "2024-03-10",
+    "courseId": "C2003"
+  },
+  {
+    "batchId": "B3004",
+    "name": "Batch 4",
+    "startDate": "2024-04-05",
+    "courseId": "C2004"
+  }
+]

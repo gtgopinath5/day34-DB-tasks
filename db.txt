@@ -1,0 +1,8 @@
+design a data base for guvi zen class
+
+Here’s a database model design for the Guvi Zen class with entities: 
+
+Student 
+Course
+Batch 
+Instructor

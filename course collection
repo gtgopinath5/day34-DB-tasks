@@ -1,0 +1,26 @@
+[
+  {
+    "courseId": "C2001",
+    "title": "Full Stack Development",
+    "duration": "6 months",
+    "instructorId": "I4001"
+  },
+  {
+    "courseId": "C2002",
+    "title": "Data Science",
+    "duration": "5 months",
+    "instructorId": "I4002"
+  },
+  {
+    "courseId": "C2003",
+    "title": "Cyber Security",
+    "duration": "4 months",
+    "instructorId": "I4003"
+  },
+  {
+    "courseId": "C2004",
+    "title": "AI and ML",
+    "duration": "7 months",
+    "instructorId": "I4004"
+  }
+]

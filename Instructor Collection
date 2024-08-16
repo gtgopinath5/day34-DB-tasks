@@ -1,0 +1,26 @@
+[
+  {
+    "instructorId": "I4001",
+    "name": "Dr. Vijay Kumar",
+    "email": "vijay.kumar@gmail.com",
+    "specialization": "Web Development"
+  },
+  {
+    "instructorId": "I4002",
+    "name": "Dr. Anjali Verma",
+    "email": "anjali.verma@gmail.com",
+    "specialization": "Data Science"
+  },
+  {
+    "instructorId": "I4003",
+    "name": "Dr. Rajesh Singh",
+    "email": "rajesh.singh@gmail.com",
+    "specialization": "Cyber Security"
+  },
+  {
+    "instructorId": "I4004",
+    "name": "Dr. Neha Gupta",
+    "email": "neha.gupta@gmail.com",
+    "specialization": "Artificial Intelligence"
+  }
+]
